@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651739563686",
+    "project_id": "autodiygarage-50270",
+    "storage_bucket": "autodiygarage-50270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651739563686:android:b4fac2e1a41bf6f6abd667",
+        "android_client_info": {
+          "package_name": "hr.markopetricevic.autodiygarage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8xfBpja4RMl8BnaouScgOt7v1w6939A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
